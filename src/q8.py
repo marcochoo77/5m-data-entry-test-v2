@@ -32,9 +32,6 @@ def count_evens(numbers):
             if n % 2 == 0:
                 count = count + 1
         return count
-    pass
-
-
 """
 (c) In one sentence, explain in plain English what `n % 2 == 0` checks.
 
